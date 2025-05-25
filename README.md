@@ -89,4 +89,4 @@ Além disso, não foram implementados todos os serviços e funcionalidades esper
 - Logout
 - Gestão de perfis e permissões
 
-Essas funcionalidades foram deixadas de fora para priorizar a entrega das funcionalidades principais dentro do prazo estabelecido.
+Essas funcionalidades foram deixadas de fora, assim como uma melhor estilização dos elementos de interface, para priorizar a entrega das funcionalidades principais dentro do prazo estabelecido.
